@@ -1,0 +1,9 @@
+{
+  "name": "@qualitygate/http-api",
+  "version": "1.0.0",
+  "description": "HTTP services based on axios, which provides a good level of configurability.",
+  "main": "index.js",
+  "repository": "https://github.com/qualitygate/http-api.git",
+  "author": "Ariel Felipe Camacho Díaz",
+  "license": "MIT"
+}
